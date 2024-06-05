@@ -4,7 +4,7 @@
 
 | TYPE / 类型   | NODE / 节点                                                                                                                                |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Google Search | [谷歌.mc-serve.cf](https://xn--flw351e.mc-serve.cf) - [Google Fun][gfun]                                                                   |
+| Google Search | [pig.cn.eu.org](https://pig.cn.eu.org) - [Google Fun][gfun]                                                                                |
 | Wikipedia     | **全部失效**                                                                                                                               |
 | Web Archive   | **全部失效**                                                                                                                               |
 | Web Proxy     | [HelloTools Global Proxy][htgp] (cloudflare)                                                                                               |
