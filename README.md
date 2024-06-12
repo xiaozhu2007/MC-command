@@ -4,19 +4,20 @@
 
 | TYPE / 类型   | NODE / 节点                                                                                                                                |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Google Search | [pig.cn.eu.org](https://pig.cn.eu.org) - [Google Fun][gfun]                                                                                |
+| Google Search | [pig.cn.eu.org](https://pig.cn.eu.org) - [Google Fun][gfun] - [0068023](https://google.0068023.xyz/)                                       |
 | Wikipedia     | **全部失效**                                                                                                                               |
 | Web Archive   | **全部失效**                                                                                                                               |
 | Web Proxy     | [HelloTools Global Proxy][htgp] (cloudflare)                                                                                               |
 | Github        | [yzuu(cn)](https://hub.yzuu.cf) (cloudflare) - [nuaa(cn)](https://hub.nuaa.cf) (cloudflare) - [HelloTools Global Proxy][htgp] (cloudflare) |
 | zlibrary      | **全部失效** - [数据下载](https://annas-archive.org/datasets/zlib)                                                                          |
+| Pixiv         | [0068023](https://pixiv.0068023.xyz/)                                                                          |
 | OpenSources   | [TUNA][tuna] - [USTC][ustc]                                                                                                                |
 
 ## 免责声明
 
 TL;DR: 不接受甩锅
 
-1. 本仓库**仅承诺**团队管理的镜像站的可用性(SLA > 80%), **不承诺**这些站点的可持续使用性和安全性
+1. 本仓库**不承诺**任何镜像站的可用性(SLA > 80%), **不承诺**这些站点的可持续使用性和安全性
 2. 本仓库资源搜集自互联网, 如有侵犯请提 [Issues][issues] 请求删除
 3. 本仓库**不**隶属于任何学校, 纯兴趣搜集
 4. 本团队所拥有的站点仍在调试中, **极不稳定**, 如严重影响您的使用, 可以发 [Issues][issues] 并前往其他镜像
